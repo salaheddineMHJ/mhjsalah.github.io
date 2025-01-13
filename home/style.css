@@ -1155,14 +1155,14 @@ article { display: none; }
     align-items: center; 
     gap: 30px; 
 }
-/*    */
-.white-text{
-    color: azure;
+
+.white-text {
     background-color: var(--eerie-black2); 
     color: var(--white2); 
-    text-align: center; 
-    padding: 20px 0; 
-    
-    position: relative; 
+    text-align:center; 
+    padding: 10px 0; 
+    display: inline-block;
+    position: absolute;
     margin-top: auto; 
+    font-size: 10px; 
 }
