@@ -1157,7 +1157,7 @@ article { display: none; }
 }
 
 .white-text {
-    background-color: var(--eerie-black2); 
+    
     color: var(--white2); 
     text-align:center; 
     padding: 10px 0; 
